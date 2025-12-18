@@ -8,7 +8,7 @@ const Home = () => {
     <section className="home-section">
       <div className="home-content">
         {/* Title */}
-        <h1 className="home-title">Hi, I'm Pritam Das</h1>
+        <h1 className="home-title">Hi, I'm soumik maity </h1>
         <p className="home-subtitle">
           A passionate MERN Stack Developer creating modern & responsive web apps.
         </p>
@@ -18,7 +18,7 @@ const Home = () => {
           <a href="#contact" className="btn hire-btn">
             Hire Me
           </a>
-          <a href="/MYCV.pdf" target="_blank" download="Pritam_Das_CV" className="btn cv-btn">
+          <a href="/MYCV.pdf" target="_blank" download="soumik maity_CV" className="btn cv-btn">
             Download CV
           </a>
         </div>
